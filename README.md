@@ -11,9 +11,6 @@ I'm in your walls.
 ![](https://github-readme-stats.vercel.app/api?username=Dark-Llght&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Llght&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Repos
-![](https://github-contributor-stats.vercel.app/api?username=Dark-Llght&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dark-Llght&icon=2&color=0)](https://visitcount.itsvg.in)
 
